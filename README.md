@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Dat Le
 
-### Full Stack Developer  | 📍 Vietnam 🇻🇳
+### Full Stack Developer & AI Enthusiast | 📍 Vietnam 🇻🇳
 
 *Passionate about creating innovative web solutions and exploring AI technologies. Always learning, always building.*
 
@@ -41,14 +41,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=datlee27&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -62,7 +54,6 @@
 <div align="center">
   
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lvd27012004@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/datlee27)
 
 </div>
